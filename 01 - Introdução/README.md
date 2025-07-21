@@ -22,8 +22,3 @@ Nesta seção, apresento uma linha do tempo das principais linguagens:
 **Ferramentas usadas**
 - Criado no [Canva](https://www.canva.com)
 - Exportado como PNG chamado `linha do tempo.png`
-
-**Estrutura da pasta**
-01-introducao/
-├── README.md
-└── linha_do_tempo.png
