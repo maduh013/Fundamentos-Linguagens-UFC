@@ -20,17 +20,8 @@ Executa código intermediário (bytecode), garantindo portabilidade.
 Ex: Java usa a JVM (Java Virtual Machine).
 
 
-**Diagrama Ilustrativo**
-
-Os diagramas a seguir mostram o funcionamento de cada tipo de ambiente:
-
-'Compilador.drawio.png'
-'Interpretador.drawio.png'
-'Máquina Virtual.drawio.png'
-
-
 **Ferramenta usada**
 
-O diagrama foi feito usando o [Draw.io](https://draw.io) e exportado como PNG.
+Os diagramas foram feitos usando o [Draw.io](https://draw.io) e exportado como PNG.
 
 
