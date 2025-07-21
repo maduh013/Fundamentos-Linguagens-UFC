@@ -24,9 +24,9 @@ Ex: Java usa a JVM (Java Virtual Machine).
 
 Os diagramas a seguir mostram o funcionamento de cada tipo de ambiente:
 
-Compilador.drawio.png
-Interpretador.drawio.png
-Máquina Virtual.drawio.png
+'Compilador.drawio.png'
+'Interpretador.drawio.png'
+'Máquina Virtual.drawio.png'
 
 
 **Ferramenta usada**
