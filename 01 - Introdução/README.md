@@ -17,11 +17,11 @@ Nesta seção, apresento uma linha do tempo das principais linguagens:
 - 2010: **Go** e **Rust** – buscando performance com segurança de memória.
 - 2020+: linguagens emergentes: **Kotlin**, **Julia**, **TypeScript**, etc.
 
-*A imagem com a linha do tempo está em `linha_do_tempo.png`.*
+*A imagem com a linha do tempo está em `linha do tempo.png`.*
 
 **Ferramentas usadas**
 - Criado no [Canva](https://www.canva.com)
-- Exportado como PNG chamado `linha_do_tempo.png`
+- Exportado como PNG chamado `linha do tempo.png`
 
 **Estrutura da pasta**
 01-introducao/
