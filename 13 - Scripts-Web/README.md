@@ -30,3 +30,4 @@ Este script percorre todos os arquivos `.txt` dentro de uma pasta e adiciona um 
 ```bash
 python renomeador.py
 ```
+3. Verifique os arquivos renomeados na pasta arquivos.
