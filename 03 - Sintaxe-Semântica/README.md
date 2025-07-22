@@ -40,3 +40,10 @@ Os tokens gerados seriam:
 ```
 [NUM:10] [OP:+] [NUM:5] [OP:-] [NUM:2]
 ```
+
+**Regras Semânticas**
+A expressão 10 + 5 - 2 será interpretada da esquerda para a direita, resultando em:
+
+```
+(10 + 5) - 2 = 13
+```
