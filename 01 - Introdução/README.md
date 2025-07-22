@@ -1,6 +1,7 @@
 **01 – Introdução às Linguagens de Programação**
 
 **Objetivo**
+
 Entender a evolução histórica das linguagens de programação, suas características principais e como elas se relacionam.
 
 **Linha do Tempo**
