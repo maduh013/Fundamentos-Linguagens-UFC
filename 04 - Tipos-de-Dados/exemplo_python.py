@@ -1,4 +1,4 @@
-Exemplos de Código:
+Exemplo de Código:
 
 Python – Tipagem Dinâmica e Forte(`exemplo_python.py`)
 
