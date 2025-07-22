@@ -48,3 +48,20 @@ A expressão 10 + 5 - 2 será interpretada da esquerda para a direita, resultand
 ```
 (10 + 5) - 2 = 13
 ```
+
+**Ferramentas sugeridas**
+
+Aqui está um exemplo de análise léxica em Python:
+```
+def lexer(expr):
+    tokens = []
+    for part in expr.split():
+        if part.isdigit():
+            tokens.append(f"[NUM:{part}]")
+        else:
+            tokens.append(f"[OP:{part}]")
+    return tokens
+
+print(lexer("10 + 5 - 2"))
+# Saída: ['[NUM:10]', '[OP:+]', '[NUM:5]', '[OP:-]', '[NUM:2]']
+```
