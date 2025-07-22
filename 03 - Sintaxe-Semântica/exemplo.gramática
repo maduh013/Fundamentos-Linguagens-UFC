@@ -1,4 +1,7 @@
-```python
+**Ferramentas sugeridas**
+
+Caso queira testar, aqui está um exemplo de análise léxica em Python:
+
 def lexer(expr):
     tokens = []
     for part in expr.split():
@@ -10,4 +13,3 @@ def lexer(expr):
 
 print(lexer("10 + 5 - 2"))
 # Saída: ['[NUM:10]', '[OP:+]', '[NUM:5]', '[OP:-]', '[NUM:2]']
-```
