@@ -42,6 +42,7 @@ Os tokens gerados seriam:
 ```
 
 **Regras Semânticas**
+
 A expressão 10 + 5 - 2 será interpretada da esquerda para a direita, resultando em:
 
 ```
