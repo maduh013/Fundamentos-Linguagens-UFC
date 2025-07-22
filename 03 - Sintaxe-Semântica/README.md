@@ -2,14 +2,14 @@
 
 **Objetivo**
 
-Criar uma linguagem fictícia simples com gramática própria e apresentar exemplos de análise léxica para representar os conceitos de sintaxe e semântica estudados em linguagens de programação.
+Este desafio propõe a criação de uma mini-gramática fictícia e exemplos práticos de análise léxica para demonstrar o entendimento de regras sintáticas e semânticas em linguagens de programação.
 
 
-**Linguagem fictícia: **CalcLang****
+**Mini-gramática: Liguagem fictícia chamada **CalcLang****
 
-**Descrição**
+**Objetivo da linguagem**
 
-A **CalcLang** é uma linguagem fictícia criada para representar expressões matemáticas simples envolvendo **somas e subtrações** de inteiros.
+Simular uma linguagem simples que permita somas e subtrações de números inteiros.
 
 
 **Gramática (BNF simplificada)**
@@ -20,35 +20,34 @@ A **CalcLang** é uma linguagem fictícia criada para representar expressões ma
 <operador>  ::= '+' | '-'
 ```
 
-**Exemplos válidos segundo a gramática:**
+Essa gramática permite expressões como:
+
 ```
+10 + 5 - 2
 7
-10 + 5
-8 - 2 + 3
+100 + 4
 ```
 
-**Análise Léxica**
+**Análise Léxica (tokenização)**
 
-Para a entrada:
+Expressão de entrada:
 
 ```
 10 + 5 - 2
 ```
-
-Os tokens gerados seriam:
+Tokens gerados:
 
 ```
 [NUM:10] [OP:+] [NUM:5] [OP:-] [NUM:2]
 ```
 
-**Regras Semânticas**
+**Regras Semânticas (exemplo de interpretação)**
 
-A expressão 10 + 5 - 2 será interpretada da esquerda para a direita, resultando em:
+- O resultado da expressão 10 + 5 - 2 é 13
+- A ordem da avaliação é da esquerda para a direita (sem precedência de operadores).
 
-```
-(10 + 5) - 2 = 13
-```
+**Observações**
 
-**Ferramentas sugeridas**
+- A gramática é propositalmente simples, ideal para simular uma linguagem de expressões matemáticas básicas.
+- Pode ser usada para construir um interpretador básico em Python ou outra linguagem, se desejado.
 
-Linguagens para tokenizar (opcional) - Python
