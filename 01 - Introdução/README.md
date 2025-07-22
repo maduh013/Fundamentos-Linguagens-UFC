@@ -5,6 +5,7 @@
 Entender a evolução histórica das linguagens de programação, suas características principais e como elas se relacionam.
 
 **Linha do Tempo**
+
 Nesta seção, apresento uma linha do tempo das principais linguagens:
 
 - 1950: **Fortran** – pioneira em cálculos científicos.
