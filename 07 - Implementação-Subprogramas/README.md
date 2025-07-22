@@ -7,7 +7,7 @@ Simular a **pilha de chamadas de subprogramas** usando um exemplo recursivo simp
 
 **Exemplo: Fatorial Recursivo**
 
-**Código (`recursao.py`)**
+Código (`recursao.py`)
 
 ```python
 def fatorial(n):
