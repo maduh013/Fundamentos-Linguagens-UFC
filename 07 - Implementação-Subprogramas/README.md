@@ -16,3 +16,16 @@ def fatorial(n):
     return n * fatorial(n - 1)
 
 print(fatorial(4))
+```
+
+**Chamadas Recursivas**
+
+Chamando fatorial(4), temos a seguinte sequência:
+
+```
+fatorial(4)
+→ 4 * fatorial(3)
+→ 3 * fatorial(2)
+→ 2 * fatorial(1)
+→ retorna 1
+```
