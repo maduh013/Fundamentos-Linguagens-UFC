@@ -1,3 +1,5 @@
+Python – Comportamento de Referência
+
 def por_valor(x):
     x = x + 10
     print(f"Dentro de por_valor: {x}")
