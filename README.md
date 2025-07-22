@@ -2,11 +2,13 @@
 
 Este repositório contém as soluções do trabalho final da disciplina de **Linguagens de Programação**, ministrada na Universidade Federal do Ceará (UFC), campus de Crateús.
 
+
 **Objetivo**:
 
 O objetivo deste trabalho é aplicar, de forma prática e crítica, os principais conceitos teóricos estudados na disciplina, com base no livro **"Conceitos de Linguagens de Programação"** de Robert W. Sebesta.
 
 Foram desenvolvidas soluções personalizadas para **14 desafios**, cada um relacionado a um tema específico abordado em aula, utilizando múltiplas linguagens, ferramentas e representações (código, diagramas, textos, scripts, etc).
+
 
 
 **Estrutura do Repositório**
@@ -29,6 +31,7 @@ Cada pasta abaixo corresponde a um dos 14 tópicos da disciplina. Dentro de cada
 | 12 | Programação Lógica | Problema lógico modelado com Prolog |
 | 13 | Scripts e Web | Script de automação em Python |
 | 14 | Tendências | Estudo crítico sobre uma linguagem emergente |
+
 
 
 **Ferramentas e Linguagens Utilizadas**
