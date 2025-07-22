@@ -18,4 +18,24 @@ A **CalcLang** é uma linguagem fictícia criada para representar expressões ma
 <expressao> ::= <numero> | <numero> <operador> <expressao>
 <numero>    ::= [0-9]+
 <operador>  ::= '+' | '-'
+```
 
+**Exemplos válidos segundo a gramática:**
+```
+7
+10 + 5
+8 - 2 + 3
+```
+
+**Análise Léxica**
+Para a entrada:
+
+```
+10 + 5 - 2
+```
+
+Os tokens gerados seriam:
+
+```
+[NUM:10] [OP:+] [NUM:5] [OP:-] [NUM:2]
+```
