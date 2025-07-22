@@ -1,3 +1,5 @@
+Exemplo de Domínio: Personagens de um jogo
+
 class Personagem:
     def __init__(self, nome, vida):
         self.nome = nome
