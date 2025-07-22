@@ -1,7 +1,3 @@
-**Ferramentas sugeridas**
-
-Caso queira testar, aqui está um exemplo de análise léxica em Python:
-
 def lexer(expr):
     tokens = []
     for part in expr.split():
