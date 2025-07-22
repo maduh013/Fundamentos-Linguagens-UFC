@@ -1,4 +1,4 @@
-Exemplo de Código C:
+C – Passagem por Valor e por Referência
 
 #include <stdio.h>
 
