@@ -2,14 +2,14 @@
 
 **Objetivo**
 
-Este desafio propõe a criação de uma mini-gramática fictícia e exemplos práticos de análise léxica para demonstrar o entendimento de regras sintáticas e semânticas em linguagens de programação.
+Criar uma linguagem fictícia simples com gramática própria e apresentar exemplos de análise léxica para representar os conceitos de sintaxe e semântica estudados em linguagens de programação.
 
 
-**Mini-gramática: Liguagem fictícia chamada **CalcLang****
+**Linguagem fictícia: **CalcLang****
 
-**Objetivo da linguagem**
+**Descrição**
 
-Simular uma linguagem simples que permita somas e subtrações de números inteiros.
+A **CalcLang** é uma linguagem fictícia criada para representar expressões matemáticas simples envolvendo **somas e subtrações** de inteiros.
 
 
 **Gramática (BNF simplificada)**
@@ -19,8 +19,3 @@ Simular uma linguagem simples que permita somas e subtrações de números intei
 <numero>    ::= [0-9]+
 <operador>  ::= '+' | '-'
 
-
-Essa gramática permite expressões como:
-10 + 5 - 2
-7
-100 + 4
