@@ -1,3 +1,5 @@
+Exemplo: Duas tarefas rodando ao mesmo tempo com threading
+
 import threading
 import time
 
