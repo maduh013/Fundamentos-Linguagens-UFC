@@ -1,6 +1,6 @@
-**Exemplos de Código**
+Exemplos de Código
 
-**C – Tipagem Estática e Fraca (`exemplo_c.c`)**
+C – Tipagem Estática e Fraca (`exemplo_c.c`)
 
 ```c
 #include <stdio.h>
