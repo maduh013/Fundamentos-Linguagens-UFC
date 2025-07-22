@@ -18,3 +18,9 @@ Simular uma linguagem simples que permita somas e subtrações de números intei
 <expressao> ::= <numero> | <numero> <operador> <expressao>
 <numero>    ::= [0-9]+
 <operador>  ::= '+' | '-'
+
+
+Essa gramática permite expressões como:
+10 + 5 - 2
+7
+100 + 4
