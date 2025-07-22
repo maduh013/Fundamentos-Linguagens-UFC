@@ -28,6 +28,7 @@ A **CalcLang** é uma linguagem fictícia criada para representar expressões ma
 ```
 
 **Análise Léxica**
+
 Para a entrada:
 
 ```
