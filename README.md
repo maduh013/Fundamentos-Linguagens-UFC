@@ -39,7 +39,7 @@ Cada pasta abaixo corresponde a um dos 14 tópicos da disciplina. Dentro de cada
 - Documentação: **Markdown**
 
 
-**Autor**
+**Autora:**
 
 - Nome: **Maria Eduarda Bezerra de Sousa**
 - Matrícula: **555942**
